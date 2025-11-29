@@ -1,6 +1,7 @@
 use
 
 mv ~/use $PREFIX/bin/use
+
 chmod +x $PREFIX/bin/use
 
 to set use up
